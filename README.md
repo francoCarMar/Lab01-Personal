@@ -39,10 +39,6 @@
 </tr>
 <tr><td>ESTUDIANTE:</td><td colspan="3">FRANCO CARDENAS MARTINEZ</td><td>NOTA</td><td></td></tr>
 <tr><td colspan="6">RECURSOS A UTILIZAR:
-<ul>
-<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
-<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
-</ul>
 </td>
 </<tr>
 <tr><td colspan="6">DOCENTES:
