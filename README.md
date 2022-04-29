@@ -41,7 +41,7 @@
 <tr><td colspan="6">RECURSOS A UTILIZAR:
 </td>
 </<tr>
-<tr><td colspan="6">DOCENTES:
+<tr><td colspan="6">DOCENTE(S):
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
 </ul>
@@ -49,6 +49,34 @@
 </<tr>
 </tdbody>
 </table>
+
+
+<table>
+<theader>
+<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+</theader>
+<tbody>
+<tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
+<tr>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+</tr>
+<tr>
+<td>FECHA PRESENTACION::</td><td>25-Abr-2022</td><td>HORA DE PRESENTACION</td><td colspan = "3">29-Abr-2022</td>
+</tr>
+<tr><td>ESTUDIANTE:</td><td colspan="3">FRANCO CARDENAS MARTINEZ</td><td>NOTA</td><td></td></tr>
+<tr><td colspan="6">RECURSOS A UTILIZAR:
+</td>
+</<tr>
+<tr><td colspan="6">DOCENTE(S):
+<ul>
+<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
+</ul>
+</td>
+</<tr>
+</tdbody>
+</table>
+
 
 
 # OBJETIVOS TEMAS Y COMPETENCIAS
