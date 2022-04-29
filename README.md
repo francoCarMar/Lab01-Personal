@@ -35,7 +35,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA PRESENTACION::</td><td>25-Abr-2022</td><td>HORA DE PRESENTACION</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA PRESENTACION::</td><td>25-Abr-2022</td><td>HORA DE PRESENTACION</td><td colspan = "3">29-Abr-2022</td>
 </tr>
 <tr><td>ESTUDIANTE:</td><td colspan="3">FRANCO CARDENAS MARTINEZ</td><td>NOTA</td><td></td></tr>
 <tr><td colspan="6">RECURSOS A UTILIZAR:
