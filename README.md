@@ -56,14 +56,9 @@
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
-<tr><td colspan="6">I. SOLUCION DE EJERCICIOS:
-<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO:
-<tr><td colspan="6">III. CONCLUCIONES: 
-<ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
-</ul>
-</td>
-</<tr>
+<tr><td colspan="6">I. SOLUCION DE EJERCICIOS: </th>
+<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO:</th>
+<tr><td colspan="6">III. CONCLUCIONES:</th> 
 </tdbody>
 </table>
 
