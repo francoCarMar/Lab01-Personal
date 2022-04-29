@@ -56,9 +56,9 @@
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
-<tr><td colspan="6">I. SOLUCION DE EJERCICIOS: </td><tr>
-<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO:</td><tr>
-<tr><td colspan="6">III. CONCLUCIONES:</td><tr>
+<tr><td colspan="6">I. SOLUCION DE EJERCICIOS: </td></tr>
+<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO:</td></tr>
+<tr><td colspan="6">III. CONCLUCIONES:</td></tr>
 </tdbody>
 </table>
 
