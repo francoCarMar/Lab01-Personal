@@ -19,8 +19,8 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato docente)</span>
+  <span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
+  <span>(formato docente)</span>
 </div>
 
 
@@ -56,9 +56,9 @@
 <tr><th colspan="6">SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
-<tr><td colspan="6">I. SOLUCION DE EJERCICIOS: </th>
-<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO:</th>
-<tr><td colspan="6">III. CONCLUCIONES:</th> 
+<tr><td colspan="6">I. SOLUCION DE EJERCICIOS: </td><tr>
+<tr><td colspan="6">II. SOLUCION DEL CUESTIONARIO:</td><tr>
+<tr><td colspan="6">III. CONCLUCIONES:</td><tr>
 </tdbody>
 </table>
 
